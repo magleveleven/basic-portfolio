@@ -1,0 +1,336 @@
+
+header {
+    top: 0;
+    background-color: white;
+    position: absolute;
+    overflow: hidden;
+    height: 100px;
+    border-bottom-width: 2px;
+    border-bottom-color:#cccccc;
+    border-bottom-style: solid;
+    width: 100%;
+    margin-left: 0px;
+
+}
+
+.topnav {
+    width: 100%;
+    background-color: white;
+    position: absolute;
+}
+
+.topmenu {
+    padding: 60px 0px;
+    font-size: 12px;
+    margin-left: 150px;
+    width: 960px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;  
+}
+.Contact {
+    Float: Right;
+    Width: 65px;
+    color: gray;
+    text-align: right;
+    padding-top: 10px;
+    border-left-style: solid; 
+    border-left-width: .25px; 
+    border-left-color: whitesmoke;
+}
+
+.About {
+    Float: Right;
+    Width: 100px;
+    color: gray;
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 28px;
+}
+
+.Portfolio {
+    Float: Right;
+    Width: 75px;
+    color: gray;
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 26px;
+    border-left-style: solid; 
+    border-left-width: .25px; 
+    border-left-color: whitesmoke;
+}
+
+.Etab {
+    Float: Left;
+    Width: 220px;
+    color: white;
+    background-color: #4aaaa5;
+    padding-top: 14px;
+    Height: 70px;
+    font-size: 26px;
+    margin-top: -20px;
+    vertical-align: middle;
+    text-align: center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;  
+}
+
+#eb {
+    float: left;
+    position: relative;
+    padding-right: 20px;
+}
+a { 
+    color: inherit; 
+} 
+ .midbackground {
+    clear: both;
+    background-image: url(assets/images/what-the-hex.png);
+ }
+
+ #subheader {
+     color: #4aaaa5;
+     font-size: 26px;
+     padding-bottom: 10px;
+     border-bottom-style: solid;
+     border-bottom-width: 1px;
+     border-bottom-color: lightgray;
+     padding-left: 20px;
+     font-family: 'Georgia', Times, 'Times New Roman', serif;
+
+ }
+
+ #introwords {
+     color: #9e9e9e;
+     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     line-height: 1.5em;
+     font-weight: lighter;
+
+ }
+ .midcontent {
+     background-color: white;
+     margin-top: 140px;
+     padding-top: 0px;
+     padding-bottom: 10px;
+     padding-right: 10px;
+     padding-left: 10px;
+     margin-left: 150px;
+     width: 960px;
+     height: 485px;
+     border: solid .5px lightgrey;
+     overflow: auto;
+     clear: both;
+ }
+
+ .midcontentportfolio {
+    background-color: white;
+    margin-top: 140px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 150px;
+    width: 960px;
+    height: 485px;
+    border: solid .5px lightgrey;
+    overflow: auto;
+    clear: both;
+}
+
+.box1 {
+    position: relative; 
+    width: 150px; 
+    margin-left: 40px; 
+    margin-right: auto;
+
+}
+  
+  .box1 .label1 {
+    position: absolute; 
+    bottom: 0; 
+    background: #4aaaa5; 
+    background: #4aaaa5(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+    width: 130px; 
+    height: 12px;
+    padding: 10px; 
+    margin-bottom: 15px;
+    text-align: center;
+    display: inline;
+
+  }
+  
+  .box2 {
+    position: relative; 
+    max-width: 150px; 
+    margin-left: 40px; 
+    margin-right: 20px;
+}
+
+  .box2 .label2 {
+    position: absolute; 
+    bottom: 0; 
+    background: #4aaaa5; 
+    background: #4aaaa5(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+    width: 130px; 
+    height: 12px;
+    padding: 10px; 
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+
+  .box3 {
+    position: relative; 
+    max-width: 150px; 
+    margin-left: 40px; 
+    margin-right: 20px;
+}
+
+  .box3 .label3 {
+    position: absolute; 
+    bottom: 0; 
+    background: #4aaaa5; 
+    background: #4aaaa5(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+    width: 130px; 
+    height: 12px;
+    padding: 10px; 
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+  .box4 {
+    position: relative; 
+    max-width: 150px; 
+    margin-left: 40px; 
+    margin-right: 20px;
+}
+
+  .box4 .label4 {
+    position: absolute; 
+    bottom: 0; 
+    background: #4aaaa5; 
+    background: #4aaaa5(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+    width: 130px; 
+    height: 12px;
+    padding: 10px; 
+    margin-bottom: 15px;
+    text-align: center;
+
+  }
+
+  .box5 {
+    position: relative; 
+    max-width: 150px; 
+    margin-left: 40px; 
+    margin-right: 20px;
+}
+
+  .box5 .label5 {
+    position: absolute;
+    bottom: 0; 
+    background: #4aaaa5; 
+    background: #4aaaa5(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+    width: 130px; 
+    height: 12px;
+    padding: 10px; 
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+
+.column  {
+    float: left;
+    padding: 5px;
+    width: 100%;
+    margin-right: auto;
+  }
+
+  .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+  
+
+.midcontentcontact{
+    background-color: white;
+    margin-top: 140px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 150px;
+    width: 960px;
+    height: 485px;
+    border: solid .5px lightgrey;
+    overflow: auto;
+    clear: both;
+}
+
+.Name  {
+    color: grey;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.Email {
+    color: grey;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.Twitter {
+    color: grey;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+.Message {
+    color: grey;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.comment {
+    width: 917px;
+    height: 40px;
+    padding: 10px;
+    background-color: white;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: grey;
+    border-style: solid;
+    border-color: lightgray;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 11px;
+  }
+
+  p2 {
+      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  }
+
+
+ footer {
+    color: white;
+    text-align: center;
+    clear: both;
+    overflow: auto;
+    background: #666666;
+    border-top: 7px;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    position: absolute;
+    bottom:0;
+    width:100%;
+    height:60px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
